@@ -1,0 +1,21 @@
+.custom-image-size{
+    width: 200px;
+    height: auto;
+}
+
+.card{
+    padding: 10px;
+    margin: 10px;
+}
+
+.card:hover{
+    rotate: 2deg;
+}
+
+.custom-card-size{
+    height: 800px;
+}
+
+.btn{
+    padding: 10px;
+}
